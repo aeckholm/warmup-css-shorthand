@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+.plain-abbrs{
+    text-decoration:none;
+}
+
+.em{
+    font-style:normal;
+    font-weight:900;
+}
+
+.site-header{
+    background-color: #eee;
+    padding: 30px;
+    border-bottom: 4px solid #000;
+}
+
+.site-id{
+    margin-top: 0 0 40px 0;
+}
+
+.site-content{
+    padding: 0 30px;
+    border-bottom: 4px solid #000;
+}
+
+.site-footer{
+    background-color: #c00;
+    color: #fff;
+    padding: 30px;
+}
+
+.footer-anchor{
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-links{
+    list-style-type: none;
+    padding: 0;
+}
